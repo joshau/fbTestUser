@@ -1,0 +1,17 @@
+
+.loader {
+  background-image: url('../img/ajax-loader.gif');
+  bottom: 15px;
+  display: none;
+  height: 30px;  
+  position: absolute;
+  width: 30px;
+}
+
+.loader_create {
+  right: 39%;
+}
+
+.loader_delete {
+  right: 30%;
+}
